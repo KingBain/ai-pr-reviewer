@@ -1,3 +1,9 @@
+## [2.0.3](https://github.com/gccloudone-aurora-collab/ai-pr-reviewer/compare/v2.0.2...v2.0.3) (2026-02-04)
+
+### Bug Fixes
+
+* handle split threads ([#7](https://github.com/gccloudone-aurora-collab/ai-pr-reviewer/issues/7)) ([8020e45](https://github.com/gccloudone-aurora-collab/ai-pr-reviewer/commit/8020e45bf1e6858e008d4015519a307429d12f34))
+
 ## [2.0.2](https://github.com/gccloudone-aurora-collab/ai-pr-reviewer/compare/v2.0.1...v2.0.2) (2026-02-04)
 
 ### Bug Fixes
