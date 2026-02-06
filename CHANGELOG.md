@@ -1,3 +1,9 @@
+## [2.0.4](https://github.com/gccloudone-aurora-collab/ai-pr-reviewer/compare/v2.0.3...v2.0.4) (2026-02-06)
+
+### Bug Fixes
+
+* better comment thread handling  ([#8](https://github.com/gccloudone-aurora-collab/ai-pr-reviewer/issues/8)) ([db34cda](https://github.com/gccloudone-aurora-collab/ai-pr-reviewer/commit/db34cda8518b5e13ba4eda4678e94e9db21c24a1))
+
 ## [2.0.3](https://github.com/gccloudone-aurora-collab/ai-pr-reviewer/compare/v2.0.2...v2.0.3) (2026-02-04)
 
 ### Bug Fixes
